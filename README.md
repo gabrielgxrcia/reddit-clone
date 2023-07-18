@@ -13,7 +13,7 @@ Feito com o Next.js App Router, TypeScript e Tailwind
 - Um editor de postagem bonito e altamente funcional.
 - Carregamentos de imagens e visualizações de links.
 - Funcionalidade completa de comentários com respostas.
-- ... and much more
+- ... e muito mais.
 
 ## Funcionamento
 
